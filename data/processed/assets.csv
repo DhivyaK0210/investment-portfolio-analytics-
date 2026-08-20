@@ -1,0 +1,21 @@
+assetid,assetname,assettype,sector,country,market,currency,ticker
+A001,Apple Inc.,Equity,Technology,USA,NASDAQ,USD,AAPL
+A002,Microsoft Corp.,Equity,Technology,USA,NASDAQ,USD,MSFT
+A003,NVIDIA Corp.,Equity,Technology,USA,NASDAQ,USD,NVDA
+A004,Alphabet Inc.,Equity,Communication Services,USA,NASDAQ,USD,GOOGL
+A005,Amazon.com Inc.,Equity,Consumer Discretionary,USA,NASDAQ,USD,AMZN
+A006,Meta Platforms Inc.,Equity,Communication Services,USA,NASDAQ,USD,META
+A007,ASML Holding,Equity,Technology,Netherlands,Euronext,EUR,ASML
+A008,SAP SE,Equity,Technology,Germany,XETRA,EUR,SAP
+A009,Novo Nordisk,Equity,Healthcare,Denmark,Copenhagen,DKK,NOVO-B
+A010,Roche Holding,Equity,Healthcare,Switzerland,SIX,CHF,ROG
+A011,UnitedHealth Group,Equity,Healthcare,USA,NYSE,USD,UNH
+A012,Eli Lilly,Equity,Healthcare,USA,NYSE,USD,LLY
+A013,JPMorgan Chase,Equity,Financials,USA,NYSE,USD,JPM
+A014,Visa Inc.,Equity,Financials,USA,NYSE,USD,V
+A015,Shell PLC,Equity,Energy,UK,LSE,GBP,SHEL
+A016,Siemens AG,Equity,Industrials,Germany,XETRA,EUR,SIE
+A017,Schneider Electric,Equity,Industrials,France,Euronext,EUR,SU
+A018,US 10Y Treasury ETF,Bond ETF,Fixed Income,USA,NYSE Arca,USD,IEF
+A019,Global Infrastructure ETF,ETF,Infrastructure,USA,NYSE Arca,USD,IGF
+A020,Gold ETF,Commodity ETF,Commodities,USA,NYSE Arca,USD,GLD

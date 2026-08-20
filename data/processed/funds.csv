@@ -1,0 +1,9 @@
+fundid,fundname,fundtype,risklevel,basecurrency,launchdate,fundmanager,status,benchmark
+F001,Technology Growth Fund,Equity,High,EUR,2021-01-04,James Wilson,Active,MSCI World Information Technology
+F002,ESG Sustainable Fund,ESG,Medium,EUR,2022-04-11,Emma Brown,Active,MSCI World ESG Leaders
+F003,Global Equity Fund,Equity,Medium,EUR,2020-06-15,Daniel Murphy,Active,MSCI World
+F004,European Income Fund,Fixed Income,Low,EUR,2019-09-02,Anna Kelly,Active,Bloomberg Euro Aggregate
+F005,US Growth Opportunities,Equity,High,USD,2021-11-08,Michael Davis,Active,S&P 500 Growth
+F006,Balanced Multi-Asset Fund,Balanced,Medium,EUR,2018-02-19,Sarah Martin,Active,60/40 Global Benchmark
+F007,Healthcare Innovation Fund,Equity,High,EUR,2023-03-06,Olivia Taylor,Active,MSCI World Health Care
+F008,Global Infrastructure Fund,Alternatives,Medium,EUR,2020-10-12,David Clark,Active,S&P Global Infrastructure
